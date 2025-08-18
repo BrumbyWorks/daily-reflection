@@ -61,5 +61,6 @@ jobs:
         with:
           app-name: 'brumby-reflection-app'
           slot-name: 'Production'
-          package: .
+          package: build
+
           
